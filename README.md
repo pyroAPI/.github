@@ -1,4 +1,3 @@
-markdown
 # PyroAPI
 
 PyroAPI is a minimal, fast backend framework purpose-built for IoT and embedded systems. It is designed to operate reliably in resource-constrained environments such as microcontrollers, single-board computers, and edge devices. PyroAPI helps streamline sensor data collection, real-time communication, and control tasks without unnecessary overhead.
