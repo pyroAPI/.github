@@ -16,7 +16,7 @@ PyroAPI is a minimal, fast backend framework purpose-built for IoT and embedded 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-org/pyroapi.git
+git clone https://github.com/pyroAPI/pyroapi.git
 cd pyroapi
 pip install -r requirements.txt
 ````
