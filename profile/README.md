@@ -64,9 +64,9 @@ mqtt.run()
 
 ## Documentation
 
-* [Getting Started](https://github.com/your-org/pyroapi/wiki/Getting-Started)
-* [API Reference](https://github.com/your-org/pyroapi/wiki/API)
-* [Example Projects](https://github.com/your-org/pyroapi/tree/main/examples)
+* [Getting Started](https://github.com/pyroAPI/pyroapi/wiki/Getting-Started)
+* [API Reference](https://github.com/pyroAPI/pyroapi/wiki/API)
+* [Example Projects](https://github.com/pyroAPI/pyroapi/tree/main/examples)
 
 ## Contributing
 
